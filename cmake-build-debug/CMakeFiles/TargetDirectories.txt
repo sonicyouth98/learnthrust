@@ -1,0 +1,3 @@
+C:/Users/admin/Desktop/learnthrust/cmake-build-debug/CMakeFiles/learnthrust.dir
+C:/Users/admin/Desktop/learnthrust/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/learnthrust/cmake-build-debug/CMakeFiles/rebuild_cache.dir
