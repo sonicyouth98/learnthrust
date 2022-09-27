@@ -3,4 +3,6 @@ project(learnthrust)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(learnthrust main.cpp)
+file(GLOB_RECURSE source CONFIGURE_DEPENDS include/*.h src/*.cpp)
+
+
